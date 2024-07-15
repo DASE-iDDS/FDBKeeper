@@ -1,12 +1,12 @@
 ## FDBKeeper
 
-This is the code repo for paper: **Enabling Scalable Coordination Services
-using Distributed Key-Value Databases: A Design Space Exploration**.
-We demonstrate how to design and implement key features of coordination services
-in FoundationDB, known as FDBKeeper (approximately 7k lines of code). We have 
-successfully replaced ZooKeeper (about 200k lines of code) with FDBKeeper
-in the ClickHouse deployment and demonstrated that it has better performance 
-and scalability in a production environment. 
+This is the code repo for paper: **Enabling Scalable Coordination Services using 
+Distributed Key-Value Databases: A Design Space Exploration**. We demonstrate how
+to design and implement key features of coordination services in FoundationDB, 
+known as FDBKeeper (approximately 7k lines of code). We have  successfully rep-
+laced ZooKeeper (about 200k lines of code) with FDBKeeper in the ClickHouse de-
+ployment and demonstrated that it has better performance and scalability in a
+production environment. 
 
 
 ### Modification Lists
