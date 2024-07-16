@@ -1,6 +1,6 @@
 ## FDBKeeper
 
-This is the code repo for paper: **Enabling Scalable Coordination Services using Distributed Key-Value Databases: A Design Space Exploration**. SIGMOD 2025
+This is the code repo for paper: **Enabling Scalable Coordination Services using Distributed Key-Value Databases: A Design Space Exploration**. submitted to SIGMOD 2025
 
 
 
