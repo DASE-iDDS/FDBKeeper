@@ -1,3 +1,4 @@
+<meta name="robots" content="noindex">
 ## FDBKeeper
 
 This is the code repo for paper: **Enabling Scalable Coordination Services using Distributed Key-Value Databases: A Design Space Exploration**. submitted to SIGMOD 2025
