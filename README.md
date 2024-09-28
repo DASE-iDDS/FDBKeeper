@@ -1,6 +1,8 @@
-## FDBKeeper
+## Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases: A Design Space Exploration
 
-This is the code repo for the paper: **Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases: A Design Space Exploration**.
+![FDBKeeper Logo](https://raw.github.com/DASE-iDDS/repositpry/master/FDBKeeper/logo.png)
+
+Welcome to FDBKeeper, a scalable coordination service using FoundationDB. This is the code repo for the paper "**Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases: A Design Space Exploration**".
 
 
 
@@ -25,3 +27,8 @@ This is the code repo for the paper: **Enabling Scalable Coordination Services f
 * utils
   * utils/keeper-bench
   * utils/check-style
+
+
+### Contact
+If there are any questions, please feel free to propose new features by opening an issue or contact with the author: Jun-Peng Zhu(zjp.dase@stu.ecnu.edu.cn). Enjoy the code.
+
