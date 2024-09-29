@@ -13,6 +13,8 @@ The experimental evaluation code is available at [FDBKeeper-Evaluation](https://
 
 ### Building on Ubuntu
 
+We recommend using Ubuntu 22.04.
+
 1. Compiling and installing FDBKeeper from source
 ```
 sudo apt-get update
