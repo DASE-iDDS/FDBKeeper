@@ -6,11 +6,31 @@
 
 ---
 
-Welcome to FDBKeeper, a scalable coordination service using FoundationDB. This is the code repo for the paper "**Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases: A Design Space Exploration**".
-The experimental evaluation code is available at [FDBKeeper-Experiments](https://github.com/DASE-iDDS/FDBKeeper-Evaluation). The code is based on the open-source project ClickHouse and FoundationDB.
+Welcome to FDBKeeper, a scalable coordination service using FoundationDB. We built on top of the [ClickHouse source code repository](https://github.com/ClickHouse/ClickHouse). This is the code repo for the paper "**Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases: A Design Space Exploration**".
+The experimental evaluation code is available at [FDBKeeper-Evaluation](https://github.com/DASE-iDDS/FDBKeeper-Evaluation). The code is based on the open-source project ClickHouse and FoundationDB.
+
+## Getting Started with FDBKeeper
+
+### Building on Ubuntu
+
+1. Compiling and installing FDBKeeper from source
+```
+sudo apt-get update
+sudo apt-get install git cmake ccache python3 ninja-build nasm yasm gawk lsb-release wget software-properties-common gnupg
+git clone --recursive https://github.com/DASE-iDDS/FDBKeeper
+mkdir build
+cmake -S . -B build
+cmake --build build
+```
+
+2. Installing FoundationDB from binary
+
+Developers interested in using FoundationDB can get started by downloading and installing a binary package. Please see the [downloads page](https://github.com/apple/foundationdb/releases) for a list of available packages.
 
 
-## Modification Lists
+
+
+## Core Components of FDBKeeper
 
 * src (Core Modification)
   * src/Common/FoundationDB
