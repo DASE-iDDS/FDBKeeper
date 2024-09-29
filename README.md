@@ -32,7 +32,7 @@ Developers interested in using FoundationDB can get started by downloading and i
 
 
 
-## Core Components of FDBKeeper
+## The Core of FDBKeeper
 
 * src (Core Modification)
   * src/Common/FoundationDB
