@@ -27,7 +27,7 @@ cmake --build build
 
 2. Installing FoundationDB from binary
 
-Developers interested in using FoundationDB can get started by downloading and installing a binary package. Please see the [downloads page](https://github.com/apple/foundationdb/releases) for a list of available packages.
+Please see the [downloads page](https://github.com/apple/foundationdb/releases) for a list of available packages.
 
 
 
