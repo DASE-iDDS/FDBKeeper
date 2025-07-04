@@ -5,7 +5,7 @@
 
 ---
 
-Welcome to FDBKeeper, a scalable coordination service using FoundationDB. We built on top of the [ClickHouse source code repository](https://github.com/ClickHouse/ClickHouse). This is the code repo for the paper "**FDBKeeper: Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases**".
+Welcome to FDBKeeper, a scalable coordination service using FoundationDB. We built on top of the [ClickHouse source code repository](https://github.com/ClickHouse/ClickHouse). This is the code repo for the paper "**FDBKeeper: Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases**" **(Accepted by VLDB 2025)**.
 The experimental evaluation code is available at [FDBKeeper-Evaluation](https://github.com/DASE-iDDS/FDBKeeper-Evaluation).
 
 ## Getting Started with FDBKeeper
