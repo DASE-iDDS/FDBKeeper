@@ -55,5 +55,22 @@ Please see the [downloads page](https://github.com/apple/foundationdb/releases) 
 
 
 ## Contact
+
 If there are any questions, please feel free to propose new features by opening an issue or contact with the author: Jun-Peng Zhu(zjp.dase@stu.ecnu.edu.cn). Enjoy the code.
 
+## Citation
+
+Please feel free to cite us if the following papers are helpful.
+
+```bitex
+@article{zhu2025fdbkeeper,
+  title={FDBKeeper: Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases},
+  author={Zhu, Jun-Peng and Zhang, Lingfeng and Cai, Peng and Zhou, Xuan and Zhao, Peisen and Wang, Xue and Tang, Linpeng},
+  journal={Proceedings of the VLDB Endowment},
+  volume={18},
+  number={12},
+  pages={5004--5016},
+  year={2025},
+  publisher={VLDB Endowment}
+}
+```
